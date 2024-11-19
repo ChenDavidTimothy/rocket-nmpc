@@ -134,5 +134,5 @@ The 2D rocket dynamics are adapted from 3D rocket dynamics that is based on the 
 
 ## Author
 
-[David Timothy]
-GitHub: [@ChenDavidTimothy]
+David Timothy - chendavidtimothy@gmail.com
+GitHub: [@ChenDavidTimothy](https://github.com/ChenDavidTimothy)
