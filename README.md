@@ -2,6 +2,8 @@
 
 A Python implementation of Non-linear Model Predictive Control (NMPC) for rocket flight trajectory optimization. This project provides a high-fidelity simulation of rocket maneuvers with real-time visualization and telemetry display.
 
+![Rocket Animation](rocket.gif)
+
 ## Requirements
 
 - Python 3.8+

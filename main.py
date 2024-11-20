@@ -88,7 +88,7 @@ def main():
         fin_length=0.4,
         fin_width=0.2,
         margin_factor=1.2,
-        ground_height_factor=0.1
+        ground_height_factor=0.05
     )
     
     # Create simulation instance
